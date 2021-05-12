@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a78200fa-335b-4e4f-9f37-0870f976cf3c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 992,
+  "height": 320,
+  "platformSettings": {},
+  "subMetas": {
+    "angry_curvyland (1)": {
+      "ver": "1.0.4",
+      "uuid": "0218bd17-9d11-458b-badf-40b8762e7e1f",
+      "rawTextureUuid": "a78200fa-335b-4e4f-9f37-0870f976cf3c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8.5,
+      "trimX": 0,
+      "trimY": 17,
+      "width": 992,
+      "height": 303,
+      "rawWidth": 992,
+      "rawHeight": 320,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

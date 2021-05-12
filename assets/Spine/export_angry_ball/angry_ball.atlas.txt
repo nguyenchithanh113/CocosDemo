@@ -1,0 +1,1982 @@
+
+angry_ball.png
+size: 380,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_chuck_bolt/L_brow
+  rotate: true
+  xy: 229, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/L_eye
+  rotate: false
+  xy: 319, 145
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/L_eyeclose
+  rotate: false
+  xy: 319, 99
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/L_eyesad
+  rotate: false
+  xy: 337, 191
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/R_brow
+  rotate: true
+  xy: 278, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/R_brow_win
+  rotate: false
+  xy: 229, 86
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/R_eye
+  rotate: true
+  xy: 327, 43
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/R_eyesad
+  rotate: false
+  xy: 327, 4
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/body
+  rotate: false
+  xy: 2, 4
+  size: 225, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/mouth_angry
+  rotate: true
+  xy: 309, 92
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/mouth_sad
+  rotate: false
+  xy: 229, 194
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_chuck_bolt/mouth_smile
+  rotate: false
+  xy: 229, 140
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball2.png
+size: 380,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_frozen_princess/L_brow
+  rotate: false
+  xy: 284, 211
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/L_eye
+  rotate: true
+  xy: 307, 41
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/L_eyeclose
+  rotate: false
+  xy: 284, 141
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/L_eyesad
+  rotate: true
+  xy: 338, 101
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/R_brow
+  rotate: false
+  xy: 284, 192
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/R_brow_win
+  rotate: false
+  xy: 230, 56
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/R_eye
+  rotate: false
+  xy: 230, 10
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/R_eyesad
+  rotate: false
+  xy: 290, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/body
+  rotate: true
+  xy: 2, 3
+  size: 225, 226
+  orig: 225, 226
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/mouth_angry
+  rotate: true
+  xy: 364, 178
+  size: 50, 10
+  orig: 50, 10
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/mouth_sad
+  rotate: false
+  xy: 230, 104
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_frozen_princess/mouth_smile
+  rotate: true
+  xy: 230, 140
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball3.png
+size: 288,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_ironman/L_eye
+  rotate: false
+  xy: 229, 119
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+ball_ironman/L_eyeclose
+  rotate: true
+  xy: 229, 209
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+ball_ironman/L_eyesad
+  rotate: false
+  xy: 229, 80
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_ironman/R_eye
+  rotate: true
+  xy: 229, 153
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+ball_ironman/R_eyesad
+  rotate: true
+  xy: 229, 40
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_ironman/body
+  rotate: false
+  xy: 2, 38
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_ironman/mouth_angry
+  rotate: true
+  xy: 263, 208
+  size: 55, 14
+  orig: 55, 14
+  offset: 0, 0
+  index: -1
+ball_ironman/mouth_sad
+  rotate: false
+  xy: 155, 2
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_ironman/mouth_smile
+  rotate: true
+  xy: 263, 151
+  size: 55, 14
+  orig: 55, 14
+  offset: 0, 0
+  index: -1
+ball_ironman/up
+  rotate: false
+  xy: 2, 3
+  size: 151, 33
+  orig: 151, 33
+  offset: 0, 0
+  index: -1
+
+angry_ball4.png
+size: 396,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_jungle_boy/L_brow
+  rotate: false
+  xy: 229, 103
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/L_eye
+  rotate: false
+  xy: 337, 196
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/L_eyeclose
+  rotate: false
+  xy: 229, 8
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/L_eyesad
+  rotate: false
+  xy: 341, 42
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/R
+  rotate: false
+  xy: 229, 54
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/R_brow
+  rotate: false
+  xy: 229, 54
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/R_brow_win
+  rotate: false
+  xy: 313, 81
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/R_eye
+  rotate: false
+  xy: 285, 8
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/R_eyesad
+  rotate: true
+  xy: 341, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/body
+  rotate: false
+  xy: 2, 15
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/hair
+  rotate: false
+  xy: 319, 135
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/mouth_angry
+  rotate: false
+  xy: 313, 57
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/mouth_sad
+  rotate: false
+  xy: 229, 206
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_jungle_boy/mouth_smile
+  rotate: false
+  xy: 229, 152
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball5.png
+size: 500,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_little_angel/L_brow
+  rotate: true
+  xy: 456, 177
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+ball_little_angel/L_eye
+  rotate: false
+  xy: 259, 5
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+ball_little_angel/L_eyeclose
+  rotate: true
+  xy: 449, 98
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_little_angel/L_eyesad
+  rotate: false
+  xy: 219, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_brow
+  rotate: true
+  xy: 473, 177
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_brow_win
+  rotate: true
+  xy: 456, 230
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_eye
+  rotate: false
+  xy: 408, 10
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_eyesad
+  rotate: true
+  xy: 449, 58
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_wing
+  rotate: true
+  xy: 308, 56
+  size: 96, 139
+  orig: 96, 139
+  offset: 0, 0
+  index: -1
+ball_little_angel/R_wing_blur
+  rotate: true
+  xy: 308, 154
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+ball_little_angel/body
+  rotate: false
+  xy: 2, 41
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_little_angel/circle
+  rotate: false
+  xy: 2, 5
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+ball_little_angel/hair
+  rotate: true
+  xy: 229, 51
+  size: 215, 77
+  orig: 215, 77
+  offset: 0, 0
+  index: -1
+ball_little_angel/mouth_angry
+  rotate: true
+  xy: 467, 7
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+ball_little_angel/mouth_sad
+  rotate: false
+  xy: 111, 5
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_little_angel/mouth_smile
+  rotate: false
+  xy: 318, 2
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball6.png
+size: 336,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_mario/L_brow_angry
+  rotate: false
+  xy: 192, 3
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ball_mario/L_brow_fun
+  rotate: true
+  xy: 262, 9
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+ball_mario/L_brow_sad
+  rotate: false
+  xy: 230, 55
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+ball_mario/L_eye_angry
+  rotate: true
+  xy: 230, 215
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+ball_mario/L_eye_close_angry
+  rotate: false
+  xy: 286, 209
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+ball_mario/L_eye_fun
+  rotate: true
+  xy: 230, 117
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+ball_mario/L_eye_sad
+  rotate: true
+  xy: 286, 50
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+ball_mario/R_brow_angry
+  rotate: false
+  xy: 230, 83
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ball_mario/R_brow_fun
+  rotate: false
+  xy: 277, 76
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+ball_mario/R_brow_sad
+  rotate: true
+  xy: 234, 8
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+ball_mario/R_eye_angry
+  rotate: true
+  xy: 230, 165
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+ball_mario/R_eye_close_angry
+  rotate: false
+  xy: 286, 154
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+ball_mario/R_eye_fun
+  rotate: false
+  xy: 284, 100
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+ball_mario/R_eye_sad
+  rotate: true
+  xy: 286, 24
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+ball_mario/body
+  rotate: false
+  xy: 2, 37
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+ball_mario/mouth_angry
+  rotate: false
+  xy: 104, 2
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+ball_mario/mouth_fun
+  rotate: false
+  xy: 2, 5
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+ball_mario/mouth_sad
+  rotate: false
+  xy: 104, 13
+  size: 86, 22
+  orig: 86, 22
+  offset: 0, 0
+  index: -1
+
+angry_ball7.png
+size: 380,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_mummy/L_eye
+  rotate: false
+  xy: 271, 93
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_mummy/L_eyeclose
+  rotate: false
+  xy: 271, 47
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_mummy/L_eyesad
+  rotate: false
+  xy: 327, 39
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+ball_mummy/R_eye
+  rotate: true
+  xy: 327, 83
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_mummy/R_eyesad
+  rotate: false
+  xy: 271, 3
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+ball_mummy/body
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_mummy/body2
+  rotate: true
+  xy: 229, 19
+  size: 208, 40
+  orig: 208, 40
+  offset: 0, 0
+  index: -1
+ball_mummy/mouth_angry
+  rotate: true
+  xy: 361, 145
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+ball_mummy/mouth_sad
+  rotate: false
+  xy: 271, 193
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_mummy/mouth_smile
+  rotate: false
+  xy: 271, 139
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball8.png
+size: 396,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_patrick/L_brow
+  rotate: true
+  xy: 229, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_patrick/L_eye
+  rotate: false
+  xy: 337, 184
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_patrick/L_eyeclose
+  rotate: false
+  xy: 319, 138
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_patrick/L_eyesad
+  rotate: true
+  xy: 327, 52
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_patrick/R_brow
+  rotate: true
+  xy: 278, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_patrick/R_brow_win
+  rotate: false
+  xy: 229, 86
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+ball_patrick/R_eye
+  rotate: false
+  xy: 309, 92
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_patrick/R_eyesad
+  rotate: true
+  xy: 327, 12
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_patrick/body
+  rotate: false
+  xy: 2, 3
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_patrick/mouth_angry
+  rotate: true
+  xy: 375, 136
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+ball_patrick/mouth_sad
+  rotate: false
+  xy: 229, 194
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_patrick/mouth_smile
+  rotate: false
+  xy: 229, 140
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball9.png
+size: 380,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_red/L_brow
+  rotate: true
+  xy: 229, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_red/L_eye
+  rotate: false
+  xy: 319, 146
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/L_eyeclose
+  rotate: false
+  xy: 319, 100
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/L_eyesad
+  rotate: false
+  xy: 337, 192
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_red/R_brow
+  rotate: true
+  xy: 278, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_red/R_brow_win
+  rotate: false
+  xy: 229, 86
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+ball_red/R_eye
+  rotate: true
+  xy: 327, 44
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/R_eyesad
+  rotate: false
+  xy: 327, 5
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_red/body
+  rotate: false
+  xy: 2, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_red/mouth_angry
+  rotate: true
+  xy: 309, 93
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+ball_red/mouth_sad
+  rotate: false
+  xy: 229, 195
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_red/mouth_smile
+  rotate: false
+  xy: 229, 141
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball10.png
+size: 328,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_spider/L_eye
+  rotate: false
+  xy: 271, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ball_spider/R_eye
+  rotate: false
+  xy: 271, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ball_spider/L_eyeclose
+  rotate: false
+  xy: 229, 149
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+ball_spider/L_eyesad
+  rotate: false
+  xy: 229, 2
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+ball_spider/R_eyesad
+  rotate: false
+  xy: 271, 20
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+ball_spider/body
+  rotate: false
+  xy: 2, 5
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_spider/mouth_angry
+  rotate: true
+  xy: 317, 184
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+ball_spider/mouth_sad
+  rotate: true
+  xy: 229, 41
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_spider/mouth_smile
+  rotate: true
+  xy: 265, 59
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball11.png
+size: 376,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+batman/Body
+  rotate: false
+  xy: 2, 5
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+batman/L_eye_angry
+  rotate: false
+  xy: 230, 2
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+batman/L_eye_close_angry
+  rotate: false
+  xy: 286, 3
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+batman/L_eye_fun
+  rotate: false
+  xy: 230, 180
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+batman/R_eye_fun
+  rotate: false
+  xy: 230, 180
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+batman/L_eye_sad
+  rotate: false
+  xy: 339, 193
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+batman/R_eye_angry
+  rotate: false
+  xy: 283, 181
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+batman/R_eye_close_angry
+  rotate: true
+  xy: 320, 125
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+batman/R_eye_sad
+  rotate: true
+  xy: 320, 89
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+batman/mouth_angry
+  rotate: false
+  xy: 276, 55
+  size: 89, 18
+  orig: 89, 18
+  offset: 0, 0
+  index: -1
+batman/mouth_fun
+  rotate: true
+  xy: 230, 54
+  size: 124, 44
+  orig: 124, 44
+  offset: 0, 0
+  index: -1
+batman/mouth_sad
+  rotate: true
+  xy: 276, 75
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+
+angry_ball12.png
+size: 288,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_bom/L_brow
+  rotate: false
+  xy: 110, 41
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+big_bom/L_eye
+  rotate: false
+  xy: 229, 271
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+big_bom/L_eyeclose
+  rotate: false
+  xy: 2, 4
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+big_bom/L_eyesad
+  rotate: false
+  xy: 62, 15
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+big_bom/R_brow
+  rotate: false
+  xy: 194, 5
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+big_bom/R_brow_win
+  rotate: true
+  xy: 229, 54
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+big_bom/R_eye
+  rotate: false
+  xy: 229, 225
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+big_bom/R_eyesad
+  rotate: false
+  xy: 102, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+big_bom/body
+  rotate: false
+  xy: 2, 90
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+big_bom/mouth_angry
+  rotate: true
+  xy: 278, 6
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+big_bom/mouth_sad
+  rotate: false
+  xy: 2, 54
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+big_bom/mouth_smile
+  rotate: true
+  xy: 229, 135
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+
+angry_ball13.png
+size: 316,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+darth_vader/Body
+  rotate: false
+  xy: 2, 3
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+darth_vader/L_eye_angry
+  rotate: false
+  xy: 230, 187
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+darth_vader/L_eye_close_angry
+  rotate: false
+  xy: 230, 143
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+darth_vader/L_eye_fun
+  rotate: true
+  xy: 281, 129
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+darth_vader/L_eye_sad
+  rotate: true
+  xy: 230, 17
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+darth_vader/R_eye_angry
+  rotate: false
+  xy: 230, 99
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+darth_vader/R_eye_close_angry
+  rotate: false
+  xy: 230, 55
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+darth_vader/R_eye_fun
+  rotate: true
+  xy: 281, 81
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+darth_vader/R_eye_sad
+  rotate: true
+  xy: 272, 2
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+darth_vader/mouth_fun
+  rotate: true
+  xy: 281, 40
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+darth_vader/mouth_sad
+  rotate: true
+  xy: 281, 177
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+
+angry_ball14.png
+size: 416,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog/L_brow_angry
+  rotate: false
+  xy: 335, 91
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+dog/L_brow_fun
+  rotate: false
+  xy: 332, 113
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+dog/L_brow_sad
+  rotate: false
+  xy: 335, 47
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dog/L_eye_angry
+  rotate: false
+  xy: 285, 57
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+dog/L_eye_close_angry
+  rotate: true
+  xy: 230, 2
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+dog/L_eye_fun
+  rotate: true
+  xy: 354, 179
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+dog/L_eye_sad
+  rotate: true
+  xy: 381, 40
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+dog/R_brow_angry
+  rotate: false
+  xy: 335, 69
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+dog/R_brow_fun
+  rotate: false
+  xy: 335, 9
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+dog/R_brow_sad
+  rotate: false
+  xy: 335, 25
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dog/R_eye_angry
+  rotate: false
+  xy: 285, 2
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+dog/R_eye_close_angry
+  rotate: true
+  xy: 354, 129
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+dog/R_eye_fun
+  rotate: false
+  xy: 230, 52
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+dog/R_eye_sad
+  rotate: false
+  xy: 387, 5
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+dog/body
+  rotate: false
+  xy: 2, 6
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+dog/mouth_angry
+  rotate: false
+  xy: 230, 112
+  size: 100, 16
+  orig: 100, 16
+  offset: 0, 0
+  index: -1
+dog/mouth_fun
+  rotate: false
+  xy: 230, 176
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+dog/mouth_sad
+  rotate: false
+  xy: 230, 130
+  size: 113, 44
+  orig: 113, 44
+  offset: 0, 0
+  index: -1
+
+angry_ball15.png
+size: 380,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dracula/L_brow_angry
+  rotate: false
+  xy: 324, 26
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+dracula/L_brow_fun
+  rotate: true
+  xy: 345, 58
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+dracula/L_brow_sad
+  rotate: false
+  xy: 279, 14
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+dracula/L_eye_angry
+  rotate: false
+  xy: 230, 166
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dracula/L_eye_close_angry
+  rotate: true
+  xy: 230, 105
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dracula/L_eye_fun
+  rotate: false
+  xy: 291, 167
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+dracula/L_eye_sad
+  rotate: false
+  xy: 201, 3
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+dracula/R_brow_angry
+  rotate: false
+  xy: 324, 3
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+dracula/R_brow_fun
+  rotate: true
+  xy: 350, 131
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+dracula/R_brow_sad
+  rotate: true
+  xy: 347, 180
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+dracula/R_eye_angry
+  rotate: true
+  xy: 230, 44
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dracula/R_eye_close_angry
+  rotate: false
+  xy: 289, 107
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dracula/R_eye_fun
+  rotate: false
+  xy: 289, 49
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+dracula/R_eye_sad
+  rotate: false
+  xy: 240, 4
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+dracula/body
+  rotate: false
+  xy: 2, 43
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+dracula/mouth_angry
+  rotate: false
+  xy: 115, 19
+  size: 84, 22
+  orig: 84, 22
+  offset: 0, 0
+  index: -1
+dracula/mouth_fun
+  rotate: false
+  xy: 230, 225
+  size: 142, 44
+  orig: 142, 44
+  offset: 0, 0
+  index: -1
+dracula/mouth_sad
+  rotate: false
+  xy: 2, 2
+  size: 111, 39
+  orig: 111, 39
+  offset: 0, 0
+  index: -1
+
+angry_ball16.png
+size: 312,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eva/L_eye_angry
+  rotate: false
+  xy: 230, 124
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eva/L_eye_close_angry
+  rotate: false
+  xy: 230, 86
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eva/L_eye_fun
+  rotate: true
+  xy: 270, 116
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+eva/L_eye_sad
+  rotate: true
+  xy: 270, 36
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+eva/R_eye_angry
+  rotate: false
+  xy: 230, 48
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eva/R_eye_close_angry
+  rotate: false
+  xy: 230, 10
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eva/R_eye_fun
+  rotate: true
+  xy: 270, 70
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+eva/R_eye_sad
+  rotate: false
+  xy: 270, 3
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+eva/body
+  rotate: false
+  xy: 2, 2
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+eva/mouth_fun
+  rotate: false
+  xy: 230, 195
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+eva/mouth_sad
+  rotate: false
+  xy: 230, 162
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+
+angry_ball17.png
+size: 236,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaonashi/L_eye_angry
+  rotate: true
+  xy: 131, 286
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+kaonashi/L_eye_close_angry
+  rotate: true
+  xy: 183, 286
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+kaonashi/L_eye_fun
+  rotate: false
+  xy: 106, 230
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+kaonashi/L_eye_sad
+  rotate: true
+  xy: 164, 337
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+kaonashi/R_eye_angry
+  rotate: true
+  xy: 2, 261
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+kaonashi/R_eye_close_angry
+  rotate: true
+  xy: 54, 251
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+kaonashi/R_eye_fun
+  rotate: false
+  xy: 167, 230
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+kaonashi/R_eye_sad
+  rotate: true
+  xy: 82, 302
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+kaonashi/body
+  rotate: false
+  xy: 2, 2
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+kaonashi/mouth_angry
+  rotate: false
+  xy: 84, 342
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+kaonashi/mouth_fun
+  rotate: false
+  xy: 2, 312
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+kaonashi/mouth_sad
+  rotate: false
+  xy: 2, 349
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+
+angry_ball18.png
+size: 396,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maleficent/Body
+  rotate: false
+  xy: 2, 2
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+maleficent/L_brow_angry
+  rotate: false
+  xy: 295, 40
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+maleficent/L_brow_fun
+  rotate: true
+  xy: 313, 167
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+maleficent/L_brow_sad
+  rotate: true
+  xy: 244, 128
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+maleficent/L_eye_angry
+  rotate: true
+  xy: 299, 74
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+maleficent/L_eye_close_angry
+  rotate: true
+  xy: 345, 82
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+maleficent/L_eye_fun
+  rotate: true
+  xy: 230, 175
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+maleficent/L_eye_sad
+  rotate: true
+  xy: 268, 47
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+maleficent/R_brow_angry
+  rotate: false
+  xy: 295, 6
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+maleficent/R_brow_fun
+  rotate: false
+  xy: 313, 135
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+maleficent/R_brow_sad
+  rotate: false
+  xy: 349, 10
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+maleficent/R_eye_angry
+  rotate: true
+  xy: 345, 177
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+maleficent/R_eye_close_angry
+  rotate: true
+  xy: 349, 29
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+maleficent/R_eye_fun
+  rotate: false
+  xy: 244, 79
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+maleficent/R_eye_sad
+  rotate: true
+  xy: 268, 15
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+maleficent/mouth_angry
+  rotate: true
+  xy: 230, 100
+  size: 73, 12
+  orig: 73, 12
+  offset: 0, 0
+  index: -1
+maleficent/mouth_fun
+  rotate: true
+  xy: 278, 127
+  size: 101, 33
+  orig: 101, 33
+  offset: 0, 0
+  index: -1
+maleficent/mouth_sad
+  rotate: true
+  xy: 230, 13
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+
+angry_ball19.png
+size: 380,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meov/L_brow_angry
+  rotate: true
+  xy: 344, 221
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+meov/L_brow_fun
+  rotate: true
+  xy: 353, 170
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+meov/L_brow_sad
+  rotate: true
+  xy: 351, 43
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+meov/L_eye_angry
+  rotate: false
+  xy: 230, 158
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+meov/L_eye_close_angry
+  rotate: false
+  xy: 230, 98
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+meov/L_eye_fun
+  rotate: false
+  xy: 293, 99
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+meov/L_eye_sad
+  rotate: false
+  xy: 351, 117
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+meov/R_brow_angry
+  rotate: false
+  xy: 293, 14
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+meov/R_brow_fun
+  rotate: false
+  xy: 224, 18
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+meov/R_brow_sad
+  rotate: false
+  xy: 343, 16
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+meov/R_eye_angry
+  rotate: false
+  xy: 230, 38
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+meov/R_eye_close_angry
+  rotate: true
+  xy: 293, 155
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+meov/R_eye_fun
+  rotate: false
+  xy: 293, 43
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+meov/R_eye_sad
+  rotate: false
+  xy: 351, 79
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+meov/body
+  rotate: false
+  xy: 2, 43
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+meov/mouth_angry
+  rotate: false
+  xy: 2, 2
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1
+meov/mouth_fun
+  rotate: false
+  xy: 230, 218
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+meov/mouth_sad
+  rotate: false
+  xy: 136, 19
+  size: 86, 22
+  orig: 86, 22
+  offset: 0, 0
+  index: -1
+
+angry_ball20.png
+size: 232,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robox/L_eye_angry
+  rotate: false
+  xy: 147, 22
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+robox/L_eye_close_angry
+  rotate: false
+  xy: 2, 7
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+robox/L_eye_fun
+  rotate: false
+  xy: 169, 65
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+robox/L_eye_sad
+  rotate: false
+  xy: 190, 35
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+robox/R_eye_angry
+  rotate: false
+  xy: 45, 7
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+robox/R_eye_close_angry
+  rotate: false
+  xy: 88, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+robox/R_eye_fun
+  rotate: false
+  xy: 103, 45
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+robox/R_eye_sad
+  rotate: false
+  xy: 190, 5
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+robox/body
+  rotate: false
+  xy: 2, 89
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+robox/mouth_fun
+  rotate: false
+  xy: 103, 69
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+robox/mouth_sad
+  rotate: false
+  xy: 2, 50
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
