@@ -29,6 +29,9 @@ cc.Class({
         this.accRight = false;
 
         this.rb = this.node.getComponent(cc.RigidBody);
+        this.circleCollider = this.node.getComponent(cc.PhysicsCircleCollider);
+        this.footOffset = this.circleCollider.radius;
+
         this.currentSpeed;
 
         this.canjump = true;
@@ -43,11 +46,11 @@ cc.Class({
     },
     onKeyDown(event){
         switch(event.keyCode) {
-            case cc.macro.KEY.a:
+            case cc.macro.KEY.left:
                 this.accLeft = true;
                 this.accRight = false;
                 break
-            case cc.macro.KEY.d:
+            case cc.macro.KEY.right:
                 this.accLeft = false;
                 this.accRight = true;
                 break
@@ -61,16 +64,16 @@ cc.Class({
     },
     onKeyUp (event) {
         switch(event.keyCode) {
-            case cc.macro.KEY.a:
+            case cc.macro.KEY.left:
                 this.accLeft = false;
                 break;
-            case cc.macro.KEY.d:
+            case cc.macro.KEY.right:
                 this.accRight = false;
                 break;
         }
     },
     Jumping(){
-        this.rb.applyForceToCenter(cc.v2(0,200000))
+        this.rb.applyForceToCenter(cc.v2(0,250000))
     },
     SetAnimation(trackIndex = 0, animationName = "",loop = false){
         if(animationName!=this.skeleton.animation){
@@ -89,15 +92,19 @@ cc.Class({
         if(selfCollider.tag == 1){
             var worldManifold = contact.getWorldManifold();
             var point = worldManifold.points[0];
-            var thisPos = cc.v2();
+            var thisPos = this.node.convertToWorldSpaceAR(cc.v2());
+            var footPos = cc.v2();
+            footPos.x = thisPos.x;
+            footPos.y = thisPos.y - this.footOffset;
             
-            thisPos.x = this.node.x;
-            thisPos.y = this.node.y;
-            var dis = point.sub(thisPos).mag();
-            cc.log(dis);
+            var dis = point.sub(footPos).mag();
+            if(dis <15){
+                this.canjump =  true;
+            }
+            //cc.log(dis);
         }
         
-        cc.log("collide");
+        //cc.log("collide");
     },
     
     start () {
@@ -106,11 +113,24 @@ cc.Class({
 
     update (dt) {
         if(this.accLeft){
-            this.node.x -= this.speed * dt;
-            this.node.angle += this.speed * dt;
+            //this.node.x -= this.speed * dt;
+            //this.node.angle += this.speed * dt;
+            if(this.canjump==false){
+                //this.rb.applyForceToCenter(cc.v2(-800,0),true);
+                
+            }else{
+                //this.rb.applyForceToCenter(cc.v2(-8000,0),true);
+            }
+            this.rb.linearVelocity = cc.v2(-150,this.rb.linearVelocity.y);
         }else if(this.accRight){
-            this.node.x += this.speed * dt;
-            this.node.angle -= this.speed * dt;
+            //this.node.x += this.speed * dt;
+            ////this.node.angle -= this.speed * dt;
+            if(this.canjump==false){
+                //this.rb.applyForceToCenter(cc.v2(800,0),true);
+            }else{
+                //this.rb.applyForceToCenter(cc.v2(8000,0),true);
+            }
+            this.rb.linearVelocity = cc.v2(150,this.rb.linearVelocity.y);
         }
         // reverseAngle = -this.node.angle;
         // let preFootPos = cc.v2();

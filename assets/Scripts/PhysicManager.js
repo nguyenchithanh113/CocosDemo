@@ -16,7 +16,12 @@ cc.Class({
 
     onLoad () {
         var manager = cc.director.getPhysicsManager();
+        var collisionManager = cc.director.getCollisionManager();
         manager.enabled = true;
+        collisionManager.enabled = true;
+        collisionManager.enabledDebugDraw = true;
+        collisionManager.enabledDrawBoundingBox = true;
+        cc.log("collisionManager")
     },
 
     start () {
