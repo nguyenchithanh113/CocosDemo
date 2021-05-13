@@ -2,22 +2,30 @@
   "group-list": [
     "Player",
     "Object",
-    "Land"
+    "Land",
+    "Coin"
   ],
   "collision-matrix": [
     [
       false,
       true,
-      true
-    ],
-    [
-      true,
       true,
       true
     ],
     [
       true,
       true,
+      true
+    ],
+    [
+      true,
+      true,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
       false
     ]
   ],

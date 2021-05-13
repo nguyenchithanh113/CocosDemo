@@ -11,7 +11,11 @@ cc.Class({
     properties: {
         LEFT:"LEFT",
         RIGHT:"RIGHT",
-        speed:2
+        speed:2,
+        explode:{
+            default:null,
+            type:cc.Prefab
+        }
         
     },
 
@@ -49,6 +53,13 @@ cc.Class({
     die(){
         cc.log("die");
         cc.log(cc.isValid(this.node))
+        var fx = cc.instantiate(this.explode);
+        fx.active = false;
+        fx.parent = this.node.parent;
+        fx.x = this.node.x;
+        fx.y = this.node.y;
+        fx.active = true;
+
         this.node.active = false;
         //this.node.obj.destroy();
     },

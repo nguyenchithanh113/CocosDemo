@@ -48,8 +48,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        513.547,
-        379.653,
+        0,
+        0,
         0,
         0,
         0,
@@ -133,7 +133,7 @@
       "a": 0
     },
     "angle": 90,
-    "angleVar": 20,
+    "angleVar": 15.6,
     "startSize": 111,
     "startSizeVar": 10,
     "endSize": 40,
@@ -182,7 +182,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "99913d64-d67b-4f42-b87b-217b3e14a2c2"
     },
     "fileId": "",
     "sync": false

@@ -23,6 +23,8 @@ cc.Class({
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onKeyDown, this);
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_UP, this.onKeyUp, this);
 
+        
+
         this.reverseAngle = 0;
 
         this.accLeft = false;
@@ -39,6 +41,12 @@ cc.Class({
         this.skeleton = this.skin.getComponent("sp.Skeleton");
         console.log(this.skeleton.animation);
 
+    },
+    test(){
+        cc.log("test call fuction");
+        this.accLeft = true;
+        this.accRight = false;
+        
     },
     onDestroy(){
         cc.systemEvent.off(cc.SystemEvent.EventType.KEY_DOWN, this.onKeyDown, this);
@@ -107,7 +115,7 @@ cc.Class({
         if(otherCollider.node.name == "BlackRoll"){
             var target = cc.v2();
             otherCollider.node.getPosition(target);
-            if(dis<25){
+            if(dis<30){
                 cc.log("kill");                                
                 this.jumpOff(target);
                 this.SetAnimation(0,"win",true);
@@ -121,6 +129,20 @@ cc.Class({
         }
         
         //cc.log("collide");
+    },
+    OnLeftDown(){
+        this.accLeft = true;
+        this.accRight = false;
+    },
+    OnLeftUp(){
+        this.accLeft = false;
+    },
+    OnRightDown(){
+        this.accLeft = false;
+        this.accRight = true;
+    },
+    OnRightUp(){
+        this.accRight = false;
     },
     hurt(){
         this.SetAnimation(0,"lost",true);
@@ -152,6 +174,7 @@ cc.Class({
     },
 
     update (dt) {
+        cc.log(this.accLeft)
         if(this.accLeft){
             //this.node.x -= this.speed * dt;
             //this.node.angle += this.speed * dt;
