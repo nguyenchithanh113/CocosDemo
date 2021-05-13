@@ -89,22 +89,50 @@ cc.Class({
         return point;
     },
     onBeginContact(contact, selfCollider, otherCollider) {
-        if(selfCollider.tag == 1){
-            var worldManifold = contact.getWorldManifold();
-            var point = worldManifold.points[0];
-            var thisPos = this.node.convertToWorldSpaceAR(cc.v2());
-            var footPos = cc.v2();
-            footPos.x = thisPos.x;
-            footPos.y = thisPos.y - this.footOffset;
+        var worldManifold = contact.getWorldManifold();
+        var point = worldManifold.points[0];
+        var thisPos = this.node.convertToWorldSpaceAR(cc.v2());
+        var footPos = cc.v2();
+        footPos.x = thisPos.x;
+        footPos.y = thisPos.y - this.footOffset;
             
-            var dis = point.sub(footPos).mag();
+        var dis = point.sub(footPos).mag();
+            
+        if(otherCollider.node.name == "ground"){
             if(dis <15){
                 this.canjump =  true;
             }
-            //cc.log(dis);
+        }
+        //cc.log(otherCollider.node.name)
+        if(otherCollider.node.name == "BlackRoll"){
+            var target = cc.v2();
+            otherCollider.node.getPosition(target);
+            if(dis<15){
+                cc.log("kill");                                
+                this.jumpOff(target);
+                otherCollider.node.getComponent("BlackRoll").die();
+                
+            }else{
+                this.jumpOff(target)
+                
+            }
         }
         
         //cc.log("collide");
+    },
+
+    jumpOff(target){
+        var thisPosition = cc.v2()
+        this.node.getPosition(thisPosition);
+        var direction = cc.v2()
+        var direction = thisPosition.sub(target);
+        direction.normalizeSelf()
+        direction.x *= 200000;
+        direction.y *= 200000;
+        this.rb.linearVelocity = cc.v2(0,0)
+        this.rb.applyForceToCenter(direction, true)
+        //cc.log(direction);
+        
     },
     
     start () {

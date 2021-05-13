@@ -1,0 +1,90 @@
+
+angry_ball.png
+size: 380,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_red/L_brow
+  rotate: true
+  xy: 229, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_red/L_eye
+  rotate: false
+  xy: 319, 146
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/L_eyeclose
+  rotate: false
+  xy: 319, 100
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/L_eyesad
+  rotate: false
+  xy: 337, 192
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_red/R_brow
+  rotate: true
+  xy: 278, 2
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+ball_red/R_brow_win
+  rotate: false
+  xy: 229, 86
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+ball_red/R_eye
+  rotate: true
+  xy: 327, 44
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+ball_red/R_eyesad
+  rotate: false
+  xy: 327, 5
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ball_red/body
+  rotate: false
+  xy: 2, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ball_red/mouth_angry
+  rotate: true
+  xy: 309, 93
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+ball_red/mouth_sad
+  rotate: false
+  xy: 229, 195
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+ball_red/mouth_smile
+  rotate: false
+  xy: 229, 141
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
