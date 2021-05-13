@@ -9,7 +9,10 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        
+        player:{
+            default:null,
+            type: cc.Node
+        }
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -20,5 +23,11 @@ cc.Class({
 
     },
 
-    // update (dt) {},
+    update (dt) {
+        let player_pos = this.player.getPosition()
+        let current_pos = this.node.getPosition()
+        current_pos.lerp(player_pos,0.1,current_pos)
+        current_pos.y = 0;
+        this.node.setPosition(current_pos)
+    },
 });

@@ -107,20 +107,32 @@ cc.Class({
         if(otherCollider.node.name == "BlackRoll"){
             var target = cc.v2();
             otherCollider.node.getPosition(target);
-            if(dis<15){
+            if(dis<25){
                 cc.log("kill");                                
                 this.jumpOff(target);
+                this.SetAnimation(0,"win",true);
+                this.backToIdle()
                 otherCollider.node.getComponent("BlackRoll").die();
                 
             }else{
                 this.jumpOff(target)
-                
+                this.hurt()
             }
         }
         
         //cc.log("collide");
     },
-
+    hurt(){
+        this.SetAnimation(0,"lost",true);
+        this.backToIdle();
+    },
+    backToIdle: function(){
+        
+        this.scheduleOnce(function() {
+            // Here `this` is referring to the component
+            this.SetAnimation(0,"idle",true);
+        }, 2);
+    },
     jumpOff(target){
         var thisPosition = cc.v2()
         this.node.getPosition(thisPosition);
